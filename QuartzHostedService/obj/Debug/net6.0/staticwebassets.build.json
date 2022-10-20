@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3aNbPx9aoh3PjJ3Iu4/VS8mfCvqr2XeyLnZiRkALB80=",
+  "Source": "QuartzHostedService",
+  "BasePath": "_content/QuartzHostedService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
